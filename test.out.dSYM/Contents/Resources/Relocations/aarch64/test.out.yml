@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/chenyuyu/Projects/VScodeCppProjects/HelloWorld/test.out'
+relocations:
+  - { offsetInCU: 0x2D8D, offset: 0x2D8D, size: 0x8, addend: 0x0, symName: __ZNSt3__124__put_character_sequenceB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m, symObjAddr: 0x130, symBinAddr: 0x1000039C8, symSize: 0x168 }
+  - { offsetInCU: 0x4E2C, offset: 0x4E2C, size: 0x8, addend: 0x0, symName: __ZNSt3__116__pad_and_outputB8ue170006IcNS_11char_traitsIcEEEENS_19ostreambuf_iteratorIT_T0_EES6_PKS4_S8_S8_RNS_8ios_baseES4_, symObjAddr: 0x298, symBinAddr: 0x100003B30, symSize: 0x194 }
+  - { offsetInCU: 0x56F5, offset: 0x56F5, size: 0x8, addend: 0x0, symName: __ZNSt3__120__throw_length_errorB8ue170006EPKc, symObjAddr: 0x44C, symBinAddr: 0x100003CE4, symSize: 0x50 }
+  - { offsetInCU: 0x7FED, offset: 0x7FED, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003898, symSize: 0x130 }
+  - { offsetInCU: 0x861F, offset: 0x861F, size: 0x8, addend: 0x0, symName: __ZNKSt3__112basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE20__throw_length_errorB8ue170006Ev, symObjAddr: 0x438, symBinAddr: 0x100003CD0, symSize: 0x14 }
+  - { offsetInCU: 0x8648, offset: 0x8648, size: 0x8, addend: 0x0, symName: __ZNSt3__120__throw_length_errorB8ue170006EPKc, symObjAddr: 0x44C, symBinAddr: 0x100003CE4, symSize: 0x50 }
+  - { offsetInCU: 0x8653, offset: 0x8653, size: 0x8, addend: 0x0, symName: __ZNSt12length_errorC1B8ue170006EPKc, symObjAddr: 0x49C, symBinAddr: 0x100003D34, symSize: 0x24 }
+...

@@ -1,0 +1,5 @@
+# 忽略 .vscode 資料夾下所有文件
+.vscode/
+
+# 忽略 ＊.out.dSYM 資料夾下所有文件
+＊.out.dSYM/
